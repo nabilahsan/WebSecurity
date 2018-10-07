@@ -1,0 +1,16 @@
+Problem 1:
+Mr. Moran,
+
+The exchange will happen on October 7th at midnight. Do not be late.
+I have sent further instructions in a separate message, which you may find at:
+https://drive.google.com/drive/folders/1AKnkcoQzDR8uac2nfqOrN6hs9-MO6uHG?usp=sharing
+
+To protect the secrecy of my message, I have hidden it among thousands of decoy messages. Those foolish detectives will never find out which one is the real message!
+You may identify the real message by computing its SHA-256 hash value (use the MessageDigest class with SHA-256). The first two bytes of the hash value of the real message are 3 and 59, respectively.
+
+Sincerely,
+Professor Moriarty
+
+
+
+îVd(îðoèíVX*s\=ïH5<0¿ê\B!t®IÇ]²Ó³qÖ°e

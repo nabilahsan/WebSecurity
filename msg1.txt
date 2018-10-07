@@ -1,0 +1,12 @@
+Mr. Moran,
+
+Execute theft tonight. Once you have the diamond, follow my instructions for the exchange.
+
+To protect the secrecy of our plan, I have encrypted my instructions. You may decrypt the ciphertext using the following information:
+-	encryption is AES in CBC mode with ISO10126Padding padding,
+-	key is 16 zero bytes and the IV is also 16 zero bytes,
+-	use the class SecretKeySpec to set the key for the cipher (https://docs.oracle.com/javase/7/docs/api/javax/crypto/spec/SecretKeySpec.html),
+-	use the class IvParameterSpec to set the IV for the cipher (https://docs.oracle.com/javase/7/docs/api/javax/crypto/spec/IvParameterSpec.html).
+
+Sincerely,
+Prof. M

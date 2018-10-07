@@ -1,0 +1,7 @@
+Mr. Moran,
+
+To protect the identity of my agent from those nosy detectives, I have encrypted the description of his physical appearance.
+For the encryption, I used AES in CBC mode without any padding (NoPadding) with an all-zero IV and all-zero key. Unfortunately, the three blocks of the ciphertext seem to have been mixed up, and they are in the wrong order. Please rearrange them before decryption.
+
+Sincerely,
+Prof. Moriarty
